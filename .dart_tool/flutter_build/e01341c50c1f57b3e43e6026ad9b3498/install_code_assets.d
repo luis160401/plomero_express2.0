@@ -1,0 +1,1 @@
+ C:\\Apps\\Mon21.2\\plomero_express\\.dart_tool\\flutter_build\\e01341c50c1f57b3e43e6026ad9b3498\\native_assets.json: 

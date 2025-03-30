@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "366809458395",
+    "project_id": "plomero-express",
+    "storage_bucket": "plomero-express.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366809458395:android:f56cfe13393a8dfdf84efe",
+        "android_client_info": {
+          "package_name": "com.example.plomero_express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366809458395-c5s1epi93647ebidcsmgtgdj55ofv613.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plomero_express",
+            "certificate_hash": "9bf3a6c8eff55e891ff01e40454062f7746ed3c4"
+          }
+        },
+        {
+          "client_id": "366809458395-92hthn4q8a8v841nau00r7kl2ctuuk8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSj2onfCAh8ZIiLTGNltVXcTzgOihUkd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366809458395-92hthn4q8a8v841nau00r7kl2ctuuk8t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "366809458395-t09nrp45321pctl1abc6ou4lg1gf3p5c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plomeroExpress"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
